@@ -1,3 +1,6 @@
+### Swagger
+Swagger Link: https://jobs-api-mboe.onrender.com/api-docs/
+
 # Jobster API
 
 #### Starter
